@@ -2,21 +2,21 @@
   "app": {
     "version": "8.0.7",
     "versionCode": "4834",
-    "link": "http://www.817on.cn/magisk/214/MagiskManager-v8.0.7.apk",
-    "note": "http://www.817on.cn/magisk/214/changelog.md"
+    "link": "https://cdn.jsdelivr.net/gh/lhz03/magisk@latest/21.4/MagiskManager-v8.0.7.apk",
+    "note": "https://cdn.jsdelivr.net/gh/lhz03/magisk@latest/21.4/changelog.md"
   },
   "stub": {
     "versionCode": "15",
-    "link": "http://www.817on.cn/magisk/214/stub-release.apk"
+    "link": "https://cdn.jsdelivr.net/gh/lhz03/magisk@latest/21.4/stub-release.apk"
   },
   "uninstaller": {
-    "link": "http://www.817on.cn/magisk/214/Magisk-uninstaller-20210117.zip"
+    "link": "https://cdn.jsdelivr.net/gh/lhz03/magisk@latest/21.4/Magisk-uninstaller-20210117.zip"
   },
   "magisk": {
     "version": "21.4",
     "versionCode": "21400",
-    "link": "http://www.817on.cn/magisk/214/Magisk-v21.4.zip",
-    "note": "http://www.817on.cn/magisk/214/21400.md",
+    "link": "https://cdn.jsdelivr.net/gh/lhz03/magisk@latest/21.4/Magisk-v21.4.zip",
+    "note": "https://cdn.jsdelivr.net/gh/lhz03/magisk@latest/21.4/21400.md",
     "md5": "ee6dd05579776e7de3a6077087846e53"
   }
 }
